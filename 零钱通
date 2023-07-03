@@ -1,3 +1,4 @@
 public class chop{
       private name;
+      private age;
 }
